@@ -1,13 +1,15 @@
 public class ClaseA{
-private int x;
+private string x;
 private int y;
   
   
 public classA(){
-  x = 0;
+  x = "";
   y = 0;
 
 }
-
+public vod mensaje(){
+  system.out.println("hola");
+}
 
 }
